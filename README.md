@@ -25,7 +25,7 @@ Thie program reads input from a file and converts the specified hands into the n
   Clone the GIT project from https://github.com/srikanthgundam/poker-face.git
 
 ######  Build project by running: mvn clean install
-######  Run the Project: java -jar target/poker-face-1.0-SNAPSHOT.jar <<FilePath>>
+######  Run the Project: java -jar target/poker-face-1.0-SNAPSHOT.jar <FilePath>
  
 ######  Example Pokerhands file is placed with in the package under src-test-resources path.
 ######  To run the program use below commands or you can provide new Pokerhands file path.
