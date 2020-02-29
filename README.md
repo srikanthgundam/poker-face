@@ -29,5 +29,5 @@ This program reads input from a file and converts the specified hands into the n
  
 ######  Example Pokerhands file is placed with in the package under src-test-resources path.
 ######  To run the program use below commands or you can provide new Pokerhands file path.
-######  2. java -jar target/poker-face-1.0-SNAPSHOT.jar src\test\resources\PokerHands (Windows)
-######  3. java -jar target/poker-face-1.0-SNAPSHOT.jar src/test/resources/PokerHands (Unix)
+######  1. java -jar target/poker-face-1.0-SNAPSHOT.jar src\test\resources\PokerHands (Windows)
+######  2. java -jar target/poker-face-1.0-SNAPSHOT.jar src/test/resources/PokerHands (Unix)
